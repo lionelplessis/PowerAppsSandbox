@@ -1,0 +1,10 @@
+LioComponent1 As CanvasComponent:
+    CustomProperty1: |-
+        =Table({SampleStringField: "SampleText", SampleNumberField: 10, SampleBooleanField: true})
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =640
+    Width: =640
+    X: =0
+    Y: =0
+    ZIndex: =1
+

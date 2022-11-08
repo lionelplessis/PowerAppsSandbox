@@ -1,0 +1,13 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Text: =Concatenate(ForAll(LioComponent1_1.CustomProperty1, SampleStringField))
+        X: =300
+        Y: =44
+        ZIndex: =1
+
+    LioComponent1_1 As LioComponent1:
+        Height: =208
+        Y: =432
+        ZIndex: =2
+

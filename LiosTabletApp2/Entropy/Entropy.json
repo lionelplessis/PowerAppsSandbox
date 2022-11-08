@@ -1,0 +1,66 @@
+{
+  "ComponentIndexes": {
+    "LioComponent1": 2,
+    "LioComponent1_1": 2
+  },
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "HeaderContainer1": 8,
+    "Label1": 10,
+    "LioComponent1": 11,
+    "LioComponent1_1": 12,
+    "MainSectionContainer1": 9,
+    "RightSideContainer1": 7,
+    "Screen1": 3,
+    "Screen2": 4,
+    "ScreenContainer1": 5,
+    "SidebarContainer1": 6
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "11/08/2022 09:03:30",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {
+    "36cebdc503ea4228b79073b8ed3356e7": 0
+  },
+  "OrderComponentTemplate": {
+    "36cebdc503ea4228b79073b8ed3356e7": 0
+  },
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "groupContainer": 1,
+    "label": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "HeaderContainer1": 5,
+    "Label1": 0,
+    "LioComponent1": 0,
+    "LioComponent1_1": 1,
+    "MainSectionContainer1": 6,
+    "RightSideContainer1": 4,
+    "Screen1": 0,
+    "Screen2": 0,
+    "ScreenContainer1": 2,
+    "SidebarContainer1": 3
+  },
+  "ResourcesJsonIndices": {},
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0263866,
+    "ControlCount": {
+      "36cebdc503ea4228b79073b8ed3356e7": 1
+    },
+    "ErrorCount": 1
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
